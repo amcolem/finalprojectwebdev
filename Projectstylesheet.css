@@ -1,0 +1,22 @@
+body {
+    background-color: wheat
+}
+.header {
+    padding: 4%;
+    text-align: center;
+    background:burlywood;
+    color: whitesmoke;
+    font-size: 30px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+blockquote {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    padding-bottom: 20%;
+    
+}
